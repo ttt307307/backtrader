@@ -21,6 +21,8 @@
 from __future__ import (absolute_import, division, print_function,
                         unicode_literals)
 
+import _init_paths
+
 import backtrader as bt
 from backtrader import Order, Position
 
